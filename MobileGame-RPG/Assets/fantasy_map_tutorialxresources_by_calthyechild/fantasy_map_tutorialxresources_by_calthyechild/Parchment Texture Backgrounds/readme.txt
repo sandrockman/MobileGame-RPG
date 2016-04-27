@@ -1,0 +1,1 @@
+As always, all textures are completely unrestricted. Do whatever you want with them. Commerical, non-commercial... just don't repost them as your own.

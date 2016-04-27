@@ -1,0 +1,1953 @@
+fileFormatVersion: 2
+guid: 8c0a18762b652ef43a609056afc5e47c
+timeCreated: 1461709304
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Weapon Icons 1_0
+    21300002: Weapon Icons 1_1
+    21300004: Weapon Icons 1_2
+    21300006: Weapon Icons 1_3
+    21300008: Weapon Icons 1_4
+    21300010: Weapon Icons 1_5
+    21300012: Weapon Icons 1_6
+    21300014: Weapon Icons 1_7
+    21300016: Weapon Icons 1_8
+    21300018: Weapon Icons 1_9
+    21300020: Weapon Icons 1_10
+    21300022: Weapon Icons 1_11
+    21300024: Weapon Icons 1_12
+    21300026: Weapon Icons 1_13
+    21300028: Weapon Icons 1_14
+    21300030: Weapon Icons 1_15
+    21300032: Weapon Icons 1_16
+    21300034: Weapon Icons 1_17
+    21300036: Weapon Icons 1_18
+    21300038: Weapon Icons 1_19
+    21300040: Weapon Icons 1_20
+    21300042: Weapon Icons 1_21
+    21300044: Weapon Icons 1_22
+    21300046: Weapon Icons 1_23
+    21300048: Weapon Icons 1_24
+    21300050: Weapon Icons 1_25
+    21300052: Weapon Icons 1_26
+    21300054: Weapon Icons 1_27
+    21300056: Weapon Icons 1_28
+    21300058: Weapon Icons 1_29
+    21300060: Weapon Icons 1_30
+    21300062: Weapon Icons 1_31
+    21300064: Weapon Icons 1_32
+    21300066: Weapon Icons 1_33
+    21300068: Weapon Icons 1_34
+    21300070: Weapon Icons 1_35
+    21300072: Weapon Icons 1_36
+    21300074: Weapon Icons 1_37
+    21300076: Weapon Icons 1_38
+    21300078: Weapon Icons 1_39
+    21300080: Weapon Icons 1_40
+    21300082: Weapon Icons 1_41
+    21300084: Weapon Icons 1_42
+    21300086: Weapon Icons 1_43
+    21300088: Weapon Icons 1_44
+    21300090: Weapon Icons 1_45
+    21300092: Weapon Icons 1_46
+    21300094: Weapon Icons 1_47
+    21300096: Weapon Icons 1_48
+    21300098: Weapon Icons 1_49
+    21300100: Weapon Icons 1_50
+    21300102: Weapon Icons 1_51
+    21300104: Weapon Icons 1_52
+    21300106: Weapon Icons 1_53
+    21300108: Weapon Icons 1_54
+    21300110: Weapon Icons 1_55
+    21300112: Weapon Icons 1_56
+    21300114: Weapon Icons 1_57
+    21300116: Weapon Icons 1_58
+    21300118: Weapon Icons 1_59
+    21300120: Weapon Icons 1_60
+    21300122: Weapon Icons 1_61
+    21300124: Weapon Icons 1_62
+    21300126: Weapon Icons 1_63
+    21300128: Weapon Icons 1_64
+    21300130: Weapon Icons 1_65
+    21300132: Weapon Icons 1_66
+    21300134: Weapon Icons 1_67
+    21300136: Weapon Icons 1_68
+    21300138: Weapon Icons 1_69
+    21300140: Weapon Icons 1_70
+    21300142: Weapon Icons 1_71
+    21300144: Weapon Icons 1_72
+    21300146: Weapon Icons 1_73
+    21300148: Weapon Icons 1_74
+    21300150: Weapon Icons 1_75
+    21300152: Weapon Icons 1_76
+    21300154: Weapon Icons 1_77
+    21300156: Weapon Icons 1_78
+    21300158: Weapon Icons 1_79
+    21300160: Weapon Icons 1_80
+    21300162: Weapon Icons 1_81
+    21300164: Weapon Icons 1_82
+    21300166: Weapon Icons 1_83
+    21300168: Weapon Icons 1_84
+    21300170: Weapon Icons 1_85
+    21300172: Weapon Icons 1_86
+    21300174: Weapon Icons 1_87
+    21300176: Weapon Icons 1_88
+    21300178: Weapon Icons 1_89
+    21300180: Weapon Icons 1_90
+    21300182: Weapon Icons 1_91
+    21300184: Weapon Icons 1_92
+    21300186: Weapon Icons 1_93
+    21300188: Weapon Icons 1_94
+    21300190: Weapon Icons 1_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Weapon Icons 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -10}
+        - {x: 14, y: -5}
+        - {x: -1, y: 11}
+        - {x: -7, y: 11}
+        - {x: -14, y: 6}
+    - name: Weapon Icons 1_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: 2, y: -11}
+        - {x: 14, y: -4}
+        - {x: 14, y: 2}
+        - {x: 13, y: 5}
+    - name: Weapon Icons 1_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -12}
+        - {x: 5, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: -9}
+        - {x: 0, y: 13}
+    - name: Weapon Icons 1_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: 7}
+        - {x: -5, y: -11}
+        - {x: 2, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 1}
+        - {x: -3, y: 13}
+    - name: Weapon Icons 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: 6}
+        - {x: -1, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -5}
+        - {x: -5, y: 14}
+    - name: Weapon Icons 1_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: Weapon Icons 1_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -4}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 2}
+        - {x: -4, y: 8}
+    - name: Weapon Icons 1_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    - name: Weapon Icons 1_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -12}
+        - {x: 13, y: -6}
+        - {x: -2, y: 11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
