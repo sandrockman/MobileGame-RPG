@@ -1,9 +1,105 @@
 fileFormatVersion: 2
 guid: 2309e5014421b174a928efae64393831
-timeCreated: 1461709086
+timeCreated: 1461883773
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Equipment Icons 4_0
+    21300002: Equipment Icons 4_1
+    21300004: Equipment Icons 4_2
+    21300006: Equipment Icons 4_3
+    21300008: Equipment Icons 4_4
+    21300010: Equipment Icons 4_5
+    21300012: Equipment Icons 4_6
+    21300014: Equipment Icons 4_7
+    21300016: Equipment Icons 4_8
+    21300018: Equipment Icons 4_9
+    21300020: Equipment Icons 4_10
+    21300022: Equipment Icons 4_11
+    21300024: Equipment Icons 4_12
+    21300026: Equipment Icons 4_13
+    21300028: Equipment Icons 4_14
+    21300030: Equipment Icons 4_15
+    21300032: Equipment Icons 4_16
+    21300034: Equipment Icons 4_17
+    21300036: Equipment Icons 4_18
+    21300038: Equipment Icons 4_19
+    21300040: Equipment Icons 4_20
+    21300042: Equipment Icons 4_21
+    21300044: Equipment Icons 4_22
+    21300046: Equipment Icons 4_23
+    21300048: Equipment Icons 4_24
+    21300050: Equipment Icons 4_25
+    21300052: Equipment Icons 4_26
+    21300054: Equipment Icons 4_27
+    21300056: Equipment Icons 4_28
+    21300058: Equipment Icons 4_29
+    21300060: Equipment Icons 4_30
+    21300062: Equipment Icons 4_31
+    21300064: Equipment Icons 4_32
+    21300066: Equipment Icons 4_33
+    21300068: Equipment Icons 4_34
+    21300070: Equipment Icons 4_35
+    21300072: Equipment Icons 4_36
+    21300074: Equipment Icons 4_37
+    21300076: Equipment Icons 4_38
+    21300078: Equipment Icons 4_39
+    21300080: Equipment Icons 4_40
+    21300082: Equipment Icons 4_41
+    21300084: Equipment Icons 4_42
+    21300086: Equipment Icons 4_43
+    21300088: Equipment Icons 4_44
+    21300090: Equipment Icons 4_45
+    21300092: Equipment Icons 4_46
+    21300094: Equipment Icons 4_47
+    21300096: Equipment Icons 4_48
+    21300098: Equipment Icons 4_49
+    21300100: Equipment Icons 4_50
+    21300102: Equipment Icons 4_51
+    21300104: Equipment Icons 4_52
+    21300106: Equipment Icons 4_53
+    21300108: Equipment Icons 4_54
+    21300110: Equipment Icons 4_55
+    21300112: Equipment Icons 4_56
+    21300114: Equipment Icons 4_57
+    21300116: Equipment Icons 4_58
+    21300118: Equipment Icons 4_59
+    21300120: Equipment Icons 4_60
+    21300122: Equipment Icons 4_61
+    21300124: Equipment Icons 4_62
+    21300126: Equipment Icons 4_63
+    21300128: Equipment Icons 4_64
+    21300130: Equipment Icons 4_65
+    21300132: Equipment Icons 4_66
+    21300134: Equipment Icons 4_67
+    21300136: Equipment Icons 4_68
+    21300138: Equipment Icons 4_69
+    21300140: Equipment Icons 4_70
+    21300142: Equipment Icons 4_71
+    21300144: Equipment Icons 4_72
+    21300146: Equipment Icons 4_73
+    21300148: Equipment Icons 4_74
+    21300150: Equipment Icons 4_75
+    21300152: Equipment Icons 4_76
+    21300154: Equipment Icons 4_77
+    21300156: Equipment Icons 4_78
+    21300158: Equipment Icons 4_79
+    21300160: Equipment Icons 4_80
+    21300162: Equipment Icons 4_81
+    21300164: Equipment Icons 4_82
+    21300166: Equipment Icons 4_83
+    21300168: Equipment Icons 4_84
+    21300170: Equipment Icons 4_85
+    21300172: Equipment Icons 4_86
+    21300174: Equipment Icons 4_87
+    21300176: Equipment Icons 4_88
+    21300178: Equipment Icons 4_89
+    21300180: Equipment Icons 4_90
+    21300182: Equipment Icons 4_91
+    21300184: Equipment Icons 4_92
+    21300186: Equipment Icons 4_93
+    21300188: Equipment Icons 4_94
+    21300190: Equipment Icons 4_95
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +126,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +134,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +145,1831 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Equipment Icons 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 12}
+        - {x: -8, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -10}
+        - {x: -5, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -11}
+        - {x: 12, y: -5}
+        - {x: 12, y: 9}
+    - name: Equipment Icons 4_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -12, y: 7}
+        - {x: -13, y: 5}
+        - {x: -13, y: -5}
+        - {x: -7, y: -13}
+        - {x: 11, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: 5}
+        - {x: 7, y: 13}
+    - name: Equipment Icons 4_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -7, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -6, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 11, y: 11}
+    - name: Equipment Icons 4_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -12, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -9}
+        - {x: -11, y: -13}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 13, y: 11}
+    - name: Equipment Icons 4_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 14, y: 9}
+        - {x: 10, y: 13}
+    - name: Equipment Icons 4_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 9, y: 14}
+    - name: Equipment Icons 4_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: Equipment Icons 4_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
+    - name: Equipment Icons 4_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -5, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -8}
+        - {x: -5, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 9, y: 12}
     outline: []
   spritePackingTag: 
   userData: 

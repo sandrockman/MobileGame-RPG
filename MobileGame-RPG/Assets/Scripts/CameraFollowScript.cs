@@ -90,14 +90,4 @@ public class CameraFollowScript : MonoBehaviour {
     {
         return Mathf.Abs(transform.position.y - player.position.y) > yMargin;
     }
-
-    // Use this for initialization
-    void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 }

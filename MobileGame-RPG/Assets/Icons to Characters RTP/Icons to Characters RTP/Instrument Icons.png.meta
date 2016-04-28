@@ -1,9 +1,105 @@
 fileFormatVersion: 2
 guid: 47e17df1a86a36a43b8a2b32e8f82683
-timeCreated: 1461709091
+timeCreated: 1461881806
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Instrument Icons_0
+    21300002: Instrument Icons_1
+    21300004: Instrument Icons_2
+    21300006: Instrument Icons_3
+    21300008: Instrument Icons_4
+    21300010: Instrument Icons_5
+    21300012: Instrument Icons_6
+    21300014: Instrument Icons_7
+    21300016: Instrument Icons_8
+    21300018: Instrument Icons_9
+    21300020: Instrument Icons_10
+    21300022: Instrument Icons_11
+    21300024: Instrument Icons_12
+    21300026: Instrument Icons_13
+    21300028: Instrument Icons_14
+    21300030: Instrument Icons_15
+    21300032: Instrument Icons_16
+    21300034: Instrument Icons_17
+    21300036: Instrument Icons_18
+    21300038: Instrument Icons_19
+    21300040: Instrument Icons_20
+    21300042: Instrument Icons_21
+    21300044: Instrument Icons_22
+    21300046: Instrument Icons_23
+    21300048: Instrument Icons_24
+    21300050: Instrument Icons_25
+    21300052: Instrument Icons_26
+    21300054: Instrument Icons_27
+    21300056: Instrument Icons_28
+    21300058: Instrument Icons_29
+    21300060: Instrument Icons_30
+    21300062: Instrument Icons_31
+    21300064: Instrument Icons_32
+    21300066: Instrument Icons_33
+    21300068: Instrument Icons_34
+    21300070: Instrument Icons_35
+    21300072: Instrument Icons_36
+    21300074: Instrument Icons_37
+    21300076: Instrument Icons_38
+    21300078: Instrument Icons_39
+    21300080: Instrument Icons_40
+    21300082: Instrument Icons_41
+    21300084: Instrument Icons_42
+    21300086: Instrument Icons_43
+    21300088: Instrument Icons_44
+    21300090: Instrument Icons_45
+    21300092: Instrument Icons_46
+    21300094: Instrument Icons_47
+    21300096: Instrument Icons_48
+    21300098: Instrument Icons_49
+    21300100: Instrument Icons_50
+    21300102: Instrument Icons_51
+    21300104: Instrument Icons_52
+    21300106: Instrument Icons_53
+    21300108: Instrument Icons_54
+    21300110: Instrument Icons_55
+    21300112: Instrument Icons_56
+    21300114: Instrument Icons_57
+    21300116: Instrument Icons_58
+    21300118: Instrument Icons_59
+    21300120: Instrument Icons_60
+    21300122: Instrument Icons_61
+    21300124: Instrument Icons_62
+    21300126: Instrument Icons_63
+    21300128: Instrument Icons_64
+    21300130: Instrument Icons_65
+    21300132: Instrument Icons_66
+    21300134: Instrument Icons_67
+    21300136: Instrument Icons_68
+    21300138: Instrument Icons_69
+    21300140: Instrument Icons_70
+    21300142: Instrument Icons_71
+    21300144: Instrument Icons_72
+    21300146: Instrument Icons_73
+    21300148: Instrument Icons_74
+    21300150: Instrument Icons_75
+    21300152: Instrument Icons_76
+    21300154: Instrument Icons_77
+    21300156: Instrument Icons_78
+    21300158: Instrument Icons_79
+    21300160: Instrument Icons_80
+    21300162: Instrument Icons_81
+    21300164: Instrument Icons_82
+    21300166: Instrument Icons_83
+    21300168: Instrument Icons_84
+    21300170: Instrument Icons_85
+    21300172: Instrument Icons_86
+    21300174: Instrument Icons_87
+    21300176: Instrument Icons_88
+    21300178: Instrument Icons_89
+    21300180: Instrument Icons_90
+    21300182: Instrument Icons_91
+    21300184: Instrument Icons_92
+    21300186: Instrument Icons_93
+    21300188: Instrument Icons_94
+    21300190: Instrument Icons_95
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +126,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +134,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +145,1879 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Instrument Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 11, y: -12}
+        - {x: 14, y: -7}
+        - {x: 14, y: 13}
+    - name: Instrument Icons_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: Instrument Icons_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -11, y: -5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 1, y: -12}
+        - {x: 13, y: -5}
+        - {x: 13, y: 1}
+        - {x: 10, y: 6}
+    - name: Instrument Icons_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -5, y: 4}
+        - {x: -14, y: -7}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: -9, y: -13}
+        - {x: 13, y: 7}
+        - {x: 13, y: 14}
+    - name: Instrument Icons_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 11}
+        - {x: 9, y: 13}
+        - {x: 5, y: 13}
+        - {x: -10, y: 3}
+        - {x: -14, y: 0}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: -1, y: -12}
+        - {x: 8, y: -8}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+    - name: Instrument Icons_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+    - name: Instrument Icons_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -9, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -4}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 11, y: -10}
+        - {x: 11, y: 2}
+        - {x: 7, y: 9}
+    - name: Instrument Icons_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: Instrument Icons_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -9, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -1}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
     outline: []
   spritePackingTag: 
   userData: 

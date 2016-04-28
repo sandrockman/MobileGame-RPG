@@ -1,9 +1,105 @@
 fileFormatVersion: 2
 guid: 60d8c4d108d635142a568b7bddc3512e
-timeCreated: 1461709101
+timeCreated: 1461881742
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Paper Icons_0
+    21300002: Paper Icons_1
+    21300004: Paper Icons_2
+    21300006: Paper Icons_3
+    21300008: Paper Icons_4
+    21300010: Paper Icons_5
+    21300012: Paper Icons_6
+    21300014: Paper Icons_7
+    21300016: Paper Icons_8
+    21300018: Paper Icons_9
+    21300020: Paper Icons_10
+    21300022: Paper Icons_11
+    21300024: Paper Icons_12
+    21300026: Paper Icons_13
+    21300028: Paper Icons_14
+    21300030: Paper Icons_15
+    21300032: Paper Icons_16
+    21300034: Paper Icons_17
+    21300036: Paper Icons_18
+    21300038: Paper Icons_19
+    21300040: Paper Icons_20
+    21300042: Paper Icons_21
+    21300044: Paper Icons_22
+    21300046: Paper Icons_23
+    21300048: Paper Icons_24
+    21300050: Paper Icons_25
+    21300052: Paper Icons_26
+    21300054: Paper Icons_27
+    21300056: Paper Icons_28
+    21300058: Paper Icons_29
+    21300060: Paper Icons_30
+    21300062: Paper Icons_31
+    21300064: Paper Icons_32
+    21300066: Paper Icons_33
+    21300068: Paper Icons_34
+    21300070: Paper Icons_35
+    21300072: Paper Icons_36
+    21300074: Paper Icons_37
+    21300076: Paper Icons_38
+    21300078: Paper Icons_39
+    21300080: Paper Icons_40
+    21300082: Paper Icons_41
+    21300084: Paper Icons_42
+    21300086: Paper Icons_43
+    21300088: Paper Icons_44
+    21300090: Paper Icons_45
+    21300092: Paper Icons_46
+    21300094: Paper Icons_47
+    21300096: Paper Icons_48
+    21300098: Paper Icons_49
+    21300100: Paper Icons_50
+    21300102: Paper Icons_51
+    21300104: Paper Icons_52
+    21300106: Paper Icons_53
+    21300108: Paper Icons_54
+    21300110: Paper Icons_55
+    21300112: Paper Icons_56
+    21300114: Paper Icons_57
+    21300116: Paper Icons_58
+    21300118: Paper Icons_59
+    21300120: Paper Icons_60
+    21300122: Paper Icons_61
+    21300124: Paper Icons_62
+    21300126: Paper Icons_63
+    21300128: Paper Icons_64
+    21300130: Paper Icons_65
+    21300132: Paper Icons_66
+    21300134: Paper Icons_67
+    21300136: Paper Icons_68
+    21300138: Paper Icons_69
+    21300140: Paper Icons_70
+    21300142: Paper Icons_71
+    21300144: Paper Icons_72
+    21300146: Paper Icons_73
+    21300148: Paper Icons_74
+    21300150: Paper Icons_75
+    21300152: Paper Icons_76
+    21300154: Paper Icons_77
+    21300156: Paper Icons_78
+    21300158: Paper Icons_79
+    21300160: Paper Icons_80
+    21300162: Paper Icons_81
+    21300164: Paper Icons_82
+    21300166: Paper Icons_83
+    21300168: Paper Icons_84
+    21300170: Paper Icons_85
+    21300172: Paper Icons_86
+    21300174: Paper Icons_87
+    21300176: Paper Icons_88
+    21300178: Paper Icons_89
+    21300180: Paper Icons_90
+    21300182: Paper Icons_91
+    21300184: Paper Icons_92
+    21300186: Paper Icons_93
+    21300188: Paper Icons_94
+    21300190: Paper Icons_95
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +126,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +134,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +145,1843 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Paper Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -6}
+        - {x: -8, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 4, y: 11}
+    - name: Paper Icons_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 11}
+        - {x: 9, y: 13}
+    - name: Paper Icons_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -11, y: 0}
+        - {x: -11, y: -7}
+        - {x: -7, y: -12}
+        - {x: 0, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -3}
+        - {x: 13, y: 8}
+        - {x: 8, y: 13}
+    - name: Paper Icons_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: 1}
+        - {x: 13, y: 2}
+        - {x: 4, y: 11}
+    - name: Paper Icons_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -13, y: 0}
+        - {x: -13, y: -11}
+        - {x: -6, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 11, y: 9}
+        - {x: 8, y: 12}
+    - name: Paper Icons_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -3, y: 11}
+        - {x: -10, y: 2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -9}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 4, y: 10}
+    - name: Paper Icons_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+        - {x: 11, y: 14}
+    - name: Paper Icons_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
+    - name: Paper Icons_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: 3, y: 12}
+        - {x: -1, y: 10}
+        - {x: -13, y: -5}
+        - {x: -13, y: -10}
+        - {x: -6, y: -14}
+        - {x: -1, y: -14}
+        - {x: 10, y: -1}
+        - {x: 12, y: 4}
+        - {x: 12, y: 9}
     outline: []
   spritePackingTag: 
   userData: 

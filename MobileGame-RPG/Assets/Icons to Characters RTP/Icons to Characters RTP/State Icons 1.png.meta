@@ -1,9 +1,93 @@
 fileFormatVersion: 2
 guid: 057eb8b14060b524788810ab5d671542
-timeCreated: 1461709081
+timeCreated: 1461881693
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: State Icons 1_0
+    21300002: State Icons 1_1
+    21300004: State Icons 1_2
+    21300006: State Icons 1_3
+    21300008: State Icons 1_4
+    21300010: State Icons 1_5
+    21300012: State Icons 1_6
+    21300014: State Icons 1_7
+    21300016: State Icons 1_8
+    21300018: State Icons 1_9
+    21300020: State Icons 1_10
+    21300022: State Icons 1_11
+    21300024: State Icons 1_12
+    21300026: State Icons 1_13
+    21300028: State Icons 1_14
+    21300030: State Icons 1_15
+    21300032: State Icons 1_16
+    21300034: State Icons 1_17
+    21300036: State Icons 1_18
+    21300038: State Icons 1_19
+    21300040: State Icons 1_20
+    21300042: State Icons 1_21
+    21300044: State Icons 1_22
+    21300046: State Icons 1_23
+    21300048: State Icons 1_24
+    21300050: State Icons 1_25
+    21300052: State Icons 1_26
+    21300054: State Icons 1_27
+    21300056: State Icons 1_28
+    21300058: State Icons 1_29
+    21300060: State Icons 1_30
+    21300062: State Icons 1_31
+    21300064: State Icons 1_32
+    21300066: State Icons 1_33
+    21300068: State Icons 1_34
+    21300070: State Icons 1_35
+    21300072: State Icons 1_36
+    21300074: State Icons 1_37
+    21300076: State Icons 1_38
+    21300078: State Icons 1_39
+    21300080: State Icons 1_40
+    21300082: State Icons 1_41
+    21300084: State Icons 1_42
+    21300086: State Icons 1_43
+    21300088: State Icons 1_44
+    21300090: State Icons 1_45
+    21300092: State Icons 1_46
+    21300094: State Icons 1_47
+    21300096: State Icons 1_48
+    21300098: State Icons 1_49
+    21300100: State Icons 1_50
+    21300102: State Icons 1_51
+    21300104: State Icons 1_52
+    21300106: State Icons 1_53
+    21300108: State Icons 1_54
+    21300110: State Icons 1_55
+    21300112: State Icons 1_56
+    21300114: State Icons 1_57
+    21300116: State Icons 1_58
+    21300118: State Icons 1_59
+    21300120: State Icons 1_60
+    21300122: State Icons 1_61
+    21300124: State Icons 1_62
+    21300126: State Icons 1_63
+    21300128: State Icons 1_64
+    21300130: State Icons 1_65
+    21300132: State Icons 1_66
+    21300134: State Icons 1_67
+    21300136: State Icons 1_68
+    21300138: State Icons 1_69
+    21300140: State Icons 1_70
+    21300142: State Icons 1_71
+    21300144: State Icons 1_72
+    21300146: State Icons 1_73
+    21300148: State Icons 1_74
+    21300150: State Icons 1_75
+    21300152: State Icons 1_76
+    21300154: State Icons 1_77
+    21300156: State Icons 1_78
+    21300158: State Icons 1_79
+    21300160: State Icons 1_80
+    21300162: State Icons 1_81
+    21300164: State Icons 1_82
+    21300166: State Icons 1_83
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +114,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +122,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +133,1591 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: State Icons 1_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: State Icons 1_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: State Icons 1_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: State Icons 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: State Icons 1_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: State Icons 1_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: State Icons 1_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: State Icons 1_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
     outline: []
   spritePackingTag: 
   userData: 
