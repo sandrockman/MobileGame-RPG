@@ -1,9 +1,105 @@
 fileFormatVersion: 2
 guid: 10cd3caab3445f346b570f144002c063
-timeCreated: 1461709083
+timeCreated: 1461885587
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: DeBuff Icons 3_0
+    21300002: DeBuff Icons 3_1
+    21300004: DeBuff Icons 3_2
+    21300006: DeBuff Icons 3_3
+    21300008: DeBuff Icons 3_4
+    21300010: DeBuff Icons 3_5
+    21300012: DeBuff Icons 3_6
+    21300014: DeBuff Icons 3_7
+    21300016: DeBuff Icons 3_8
+    21300018: DeBuff Icons 3_9
+    21300020: DeBuff Icons 3_10
+    21300022: DeBuff Icons 3_11
+    21300024: DeBuff Icons 3_12
+    21300026: DeBuff Icons 3_13
+    21300028: DeBuff Icons 3_14
+    21300030: DeBuff Icons 3_15
+    21300032: DeBuff Icons 3_16
+    21300034: DeBuff Icons 3_17
+    21300036: DeBuff Icons 3_18
+    21300038: DeBuff Icons 3_19
+    21300040: DeBuff Icons 3_20
+    21300042: DeBuff Icons 3_21
+    21300044: DeBuff Icons 3_22
+    21300046: DeBuff Icons 3_23
+    21300048: DeBuff Icons 3_24
+    21300050: DeBuff Icons 3_25
+    21300052: DeBuff Icons 3_26
+    21300054: DeBuff Icons 3_27
+    21300056: DeBuff Icons 3_28
+    21300058: DeBuff Icons 3_29
+    21300060: DeBuff Icons 3_30
+    21300062: DeBuff Icons 3_31
+    21300064: DeBuff Icons 3_32
+    21300066: DeBuff Icons 3_33
+    21300068: DeBuff Icons 3_34
+    21300070: DeBuff Icons 3_35
+    21300072: DeBuff Icons 3_36
+    21300074: DeBuff Icons 3_37
+    21300076: DeBuff Icons 3_38
+    21300078: DeBuff Icons 3_39
+    21300080: DeBuff Icons 3_40
+    21300082: DeBuff Icons 3_41
+    21300084: DeBuff Icons 3_42
+    21300086: DeBuff Icons 3_43
+    21300088: DeBuff Icons 3_44
+    21300090: DeBuff Icons 3_45
+    21300092: DeBuff Icons 3_46
+    21300094: DeBuff Icons 3_47
+    21300096: DeBuff Icons 3_48
+    21300098: DeBuff Icons 3_49
+    21300100: DeBuff Icons 3_50
+    21300102: DeBuff Icons 3_51
+    21300104: DeBuff Icons 3_52
+    21300106: DeBuff Icons 3_53
+    21300108: DeBuff Icons 3_54
+    21300110: DeBuff Icons 3_55
+    21300112: DeBuff Icons 3_56
+    21300114: DeBuff Icons 3_57
+    21300116: DeBuff Icons 3_58
+    21300118: DeBuff Icons 3_59
+    21300120: DeBuff Icons 3_60
+    21300122: DeBuff Icons 3_61
+    21300124: DeBuff Icons 3_62
+    21300126: DeBuff Icons 3_63
+    21300128: DeBuff Icons 3_64
+    21300130: DeBuff Icons 3_65
+    21300132: DeBuff Icons 3_66
+    21300134: DeBuff Icons 3_67
+    21300136: DeBuff Icons 3_68
+    21300138: DeBuff Icons 3_69
+    21300140: DeBuff Icons 3_70
+    21300142: DeBuff Icons 3_71
+    21300144: DeBuff Icons 3_72
+    21300146: DeBuff Icons 3_73
+    21300148: DeBuff Icons 3_74
+    21300150: DeBuff Icons 3_75
+    21300152: DeBuff Icons 3_76
+    21300154: DeBuff Icons 3_77
+    21300156: DeBuff Icons 3_78
+    21300158: DeBuff Icons 3_79
+    21300160: DeBuff Icons 3_80
+    21300162: DeBuff Icons 3_81
+    21300164: DeBuff Icons 3_82
+    21300166: DeBuff Icons 3_83
+    21300168: DeBuff Icons 3_84
+    21300170: DeBuff Icons 3_85
+    21300172: DeBuff Icons 3_86
+    21300174: DeBuff Icons 3_87
+    21300176: DeBuff Icons 3_88
+    21300178: DeBuff Icons 3_89
+    21300180: DeBuff Icons 3_90
+    21300182: DeBuff Icons 3_91
+    21300184: DeBuff Icons 3_92
+    21300186: DeBuff Icons 3_93
+    21300188: DeBuff Icons 3_94
+    21300190: DeBuff Icons 3_95
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +126,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +134,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +145,1735 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: DeBuff Icons 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: DeBuff Icons 3_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: DeBuff Icons 3_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
     outline: []
   spritePackingTag: 
   userData: 

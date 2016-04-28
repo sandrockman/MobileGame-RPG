@@ -1,9 +1,105 @@
 fileFormatVersion: 2
 guid: fd29354a7ee145c4ca9f20b2151021c6
-timeCreated: 1461709137
+timeCreated: 1461887802
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Book Icons_0
+    21300002: Book Icons_1
+    21300004: Book Icons_2
+    21300006: Book Icons_3
+    21300008: Book Icons_4
+    21300010: Book Icons_5
+    21300012: Book Icons_6
+    21300014: Book Icons_7
+    21300016: Book Icons_8
+    21300018: Book Icons_9
+    21300020: Book Icons_10
+    21300022: Book Icons_11
+    21300024: Book Icons_12
+    21300026: Book Icons_13
+    21300028: Book Icons_14
+    21300030: Book Icons_15
+    21300032: Book Icons_16
+    21300034: Book Icons_17
+    21300036: Book Icons_18
+    21300038: Book Icons_19
+    21300040: Book Icons_20
+    21300042: Book Icons_21
+    21300044: Book Icons_22
+    21300046: Book Icons_23
+    21300048: Book Icons_24
+    21300050: Book Icons_25
+    21300052: Book Icons_26
+    21300054: Book Icons_27
+    21300056: Book Icons_28
+    21300058: Book Icons_29
+    21300060: Book Icons_30
+    21300062: Book Icons_31
+    21300064: Book Icons_32
+    21300066: Book Icons_33
+    21300068: Book Icons_34
+    21300070: Book Icons_35
+    21300072: Book Icons_36
+    21300074: Book Icons_37
+    21300076: Book Icons_38
+    21300078: Book Icons_39
+    21300080: Book Icons_40
+    21300082: Book Icons_41
+    21300084: Book Icons_42
+    21300086: Book Icons_43
+    21300088: Book Icons_44
+    21300090: Book Icons_45
+    21300092: Book Icons_46
+    21300094: Book Icons_47
+    21300096: Book Icons_48
+    21300098: Book Icons_49
+    21300100: Book Icons_50
+    21300102: Book Icons_51
+    21300104: Book Icons_52
+    21300106: Book Icons_53
+    21300108: Book Icons_54
+    21300110: Book Icons_55
+    21300112: Book Icons_56
+    21300114: Book Icons_57
+    21300116: Book Icons_58
+    21300118: Book Icons_59
+    21300120: Book Icons_60
+    21300122: Book Icons_61
+    21300124: Book Icons_62
+    21300126: Book Icons_63
+    21300128: Book Icons_64
+    21300130: Book Icons_65
+    21300132: Book Icons_66
+    21300134: Book Icons_67
+    21300136: Book Icons_68
+    21300138: Book Icons_69
+    21300140: Book Icons_70
+    21300142: Book Icons_71
+    21300144: Book Icons_72
+    21300146: Book Icons_73
+    21300148: Book Icons_74
+    21300150: Book Icons_75
+    21300152: Book Icons_76
+    21300154: Book Icons_77
+    21300156: Book Icons_78
+    21300158: Book Icons_79
+    21300160: Book Icons_80
+    21300162: Book Icons_81
+    21300164: Book Icons_82
+    21300166: Book Icons_83
+    21300168: Book Icons_84
+    21300170: Book Icons_85
+    21300172: Book Icons_86
+    21300174: Book Icons_87
+    21300176: Book Icons_88
+    21300178: Book Icons_89
+    21300180: Book Icons_90
+    21300182: Book Icons_91
+    21300184: Book Icons_92
+    21300186: Book Icons_93
+    21300188: Book Icons_94
+    21300190: Book Icons_95
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +126,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +134,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +145,1903 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Book Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+    - name: Book Icons_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
+    - name: Book Icons_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -2}
+        - {x: -11, y: -7}
+        - {x: -1, y: -13}
+        - {x: 4, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 2, y: 8}
     outline: []
   spritePackingTag: 
   userData: 
