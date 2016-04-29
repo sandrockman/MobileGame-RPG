@@ -6,8 +6,13 @@ public static class NavigationManager {
     //key, value
     public static Dictionary<string, string> RouteInformation = new Dictionary<string, string>()
     {
-        {"World", "The big bad world"},
-        {"Cave", "The deep dark cave" },
+        {"World", "The Big Bad World"},
+        {"Cave", "The Deep Dark Cave" },
+        {"Village", "The Very Scary Village" },
+        {"Swamp", "The Dank Rotting Swamp" },
+        {"Witch", "The Evil Witch's House" },
+        {"Grove", "The Calm, Quiet Grove" },
+        {"Home", "Your Home Town" },
     };
 
     /// <summary>
