@@ -8,11 +8,20 @@ public class DestinationScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Instance = this;
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+        }
+        else
+        {
+            Instance = this;
+            DontDestroyOnLoad(this.gameObject);
+        }
 	}
 	
 	// Update is called once per frame
 	void Update () {
 	
 	}
+
 }
