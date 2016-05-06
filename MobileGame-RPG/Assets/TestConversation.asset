@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3666599b05119848b89e17ca02e7a99, type: 3}
+  m_Name: TestConversation
+  m_EditorClassIdentifier: 
+  ConversationLines:
+  - SpeakingCharacterName: Ocram
+    ConversationText: orc orc orc, orc Orc orc. Orc!
+    DisplayPicture: {fileID: 21300010, guid: c0a74c268ded4e641835e61ccca8e0da, type: 3}
+  - SpeakingCharacterName: Olop
+    ConversationText: Ocram, I choose you!
+    DisplayPicture: {fileID: 21300010, guid: 55acaed5aee5cda44ae3dcfa8b5e55f3, type: 3}
+  - SpeakingCharacterName: Ocram
+    ConversationText: This is so humiliating...
+    DisplayPicture: {fileID: 21300010, guid: c0a74c268ded4e641835e61ccca8e0da, type: 3}
+  - SpeakingCharacterName: Olop
+    ConversationText: Shush, you're ruining the moment.
+    DisplayPicture: {fileID: 21300010, guid: 55acaed5aee5cda44ae3dcfa8b5e55f3, type: 3}

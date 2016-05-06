@@ -1,0 +1,33 @@
+dialogue System ->
+
+Design for the most complicated setup used.
+
+-How long?
+-How many participants?
+-Is it One-Sided? 
+	-Do decisions matter?
+-Does the Conversation branch?
+-How much content
+	-text
+	-sprite
+	-voice over
+	-etc.
+-Support outbound or triggers?
+
+
+Ours will be super simple
+Will have
+-Names of character
+-Text Conversation
+-Sprites of characters involved
+-Choices
+-Positioning
+
+
+Conversation Lines
+	Individual Lines
+Conversation
+	All Lines in Conversation
+Conversation Component
+	The Conversation that the object is responsible for
+Conversation Manager

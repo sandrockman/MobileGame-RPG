@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 public static class NavigationManager {
     //key, value
+    /*
     public static Dictionary<string, string> RouteInformation = new Dictionary<string, string>()
     {
         {"World", "The Big Bad World"},
@@ -14,7 +15,17 @@ public static class NavigationManager {
         {"Grove", "The Calm, Quiet Grove" },
         {"Home", "Your Home Town" },
     };
-
+    //*/
+    public static Dictionary<string, Route> RouteInformation = new Dictionary<string, Route>()
+    {
+        {"World", new Route {routeDescription = "The Big Bad World", canTravel = true} },
+        {"Cave", new Route {routeDescription = "The Deep Dark Cave", canTravel = false} },
+        {"Village", new Route {routeDescription = "The Very Scary Village", canTravel = true}},
+        {"Swamp", new Route {routeDescription = "The Dank Rotting Swamp", canTravel = true}},
+        {"Witch", new Route {routeDescription = "The Evil Witch's House", canTravel = true}},
+        {"Grove", new Route {routeDescription = "The Calm, Quiet Grove", canTravel = true}},
+        {"Home", new Route {routeDescription = "Your Home Town", canTravel = true}},
+    };
     /// <summary>
     /// Used to interrogate the destination list.
     /// </summary>
@@ -24,7 +35,7 @@ public static class NavigationManager {
     /// a navigation link, which can route the player depending on INVENTORY items or other conditions
     public static string GetRouteInformation(string destination)
     {
-        return RouteInformation.ContainsKey(destination) ? RouteInformation[destination] : null;
+        return RouteInformation.ContainsKey(destination) ? RouteInformation[destination].routeDescription : null;
     }
 
     //Will complete later
@@ -35,7 +46,7 @@ public static class NavigationManager {
     /// <returns></returns>
     public static bool CanNavigate(string destination)
     {
-        return true;
+        return RouteInformation.ContainsKey(destination) ? RouteInformation[destination].canTravel : false;
     }
 
     /// <summary>
@@ -47,4 +58,10 @@ public static class NavigationManager {
         //will complete later
         //SceneManager.LoadLevel(destination);
     }
+}
+
+public struct Route
+{
+    public string routeDescription;
+    public bool canTravel;
 }
